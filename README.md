@@ -1,16 +1,18 @@
-# weather_app
+# WeatherApp ☁
 
-A new Flutter project.
+## Description
 
-## Getting Started
+A weather app that allow users to check weather forecasts on different locations all around the globe.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/clima-demo.gif)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Dart to perform asynchronous tasks.
+- Network with the Dart http package.
+- APIs to get data from the internet.
+- JSONs to parse them using the Dart convert package.
+- Passing data forwards and backwards between screens using the Navigator.
+- Geolocator package to get live location data for both iOS and Android.
+- TextField Widget to take user input.
